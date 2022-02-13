@@ -1,6 +1,6 @@
 # Codewars
 
-![https://www.codewars.com/users/klotor13](https://www.codewars.com/users/klotor13/badges/large)
+![https://www.codewars.com/users/klotor13](https://www.codewars.com/users/karolpiatek/badges/large)
 
 ## What to expect from this repository?
 
